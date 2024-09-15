@@ -19,12 +19,12 @@ categories: jekyll update
 1. Python课程：基于Python的科学与数值计算（推荐）等三个。
 2. AI相关课程。
 
-## 学习内容和方法
+### 学习内容和方法
 - 编程技能（如Linux、Bash、R、Python等）贯穿课程的不同阶段。
 - 每周课程包括课堂讲授和课后实践，要求学生通过编程和数据分析项目提高实践能力。
 - 教学大纲：[《生物信息学实践》教学大纲](https://docs.qq.com/doc/DWXlXc29FclpaTmp2)
 - 教学辅导：[Bioinformatics Tutorial](https://book.ncrnalab.org/teaching)
-- 课件下载：[清华大学云盘课件]（https://cloud.tsinghua.edu.cn/d/dcbb0944631a4291b34c/?p=%2FLectures&mode=list）
+- 课件下载：[清华大学云盘课件](https://cloud.tsinghua.edu.cn/d/dcbb0944631a4291b34c/?p=%2FLectures&mode=list)
 
 ## 评分机制
 1. 课堂互动占20%。
