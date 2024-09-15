@@ -17,7 +17,7 @@ categories: jekyll update
 2. 学过高等数学等数理基础课程。
 
 ### 后续课程推荐
-1. Python课程：基于 Python 的科学与数值计算（推荐）等三个。
+1. Python课程：「基于Python 的科学与数值计算」等。
 2. AI 相关课程。
 
 ### 学习内容和方法
