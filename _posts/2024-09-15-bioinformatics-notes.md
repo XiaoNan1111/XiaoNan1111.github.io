@@ -26,11 +26,11 @@ categories: jekyll update
 - 教学辅导：[Bioinformatics Tutorial](https://book.ncrnalab.org/teaching)
 - 课件下载：[清华大学云盘课件](https://cloud.tsinghua.edu.cn/d/dcbb0944631a4291b34c/?p=%2FLectures&mode=list)
 
-## 评分机制
-1. 课堂互动占20%。
-2. 课后作业和项目占80%，包括经验分享展示和小组作业。
+### 评分机制
+1. 课堂互动占*20%*。
+2. 课后作业和项目占*80%*，包括经验分享展示和小组作业。
 
-## 其他注意事项
+### 其他注意事项
 - 课后作业可小组讨论，但每位学生需独立完成并提交。
 - 助教会在每次课后提供答疑时间。
 
