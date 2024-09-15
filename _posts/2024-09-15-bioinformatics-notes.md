@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b2ab63a1-e04b-44e3-9a99-af5d1cb984e7)---
+---
 layout: post
 title:  "生物信息学笔记"
 date:   2024-09-15 12:00:00 +0800
