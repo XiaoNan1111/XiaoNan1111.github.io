@@ -5,7 +5,8 @@ date:   2024-09-15 12:00:00 +0800
 categories: jekyll update
 ---
 # 课堂笔记
-## 课堂笔记1：《Course Logistics》
+
+>## 课堂笔记1：《Course Logistics》
 
 ### 课程介绍
 课程名为**生物信息学实践**，由鲁志教授主讲，侧重分析方法和算法的理论和实践，侧重上机实践和编程
@@ -33,10 +34,10 @@ categories: jekyll update
 - 课后作业可小组讨论，但每位学生需独立完成并提交。
 - 助教会在每次课后提供答疑时间。
 
-## 课堂笔记2：《Introduction》
+> ## 课堂笔记2：《Introduction》
 
 
-## 课堂笔记3：《Getting Started》
+> ## 课堂笔记3：《Getting Started》
 
 
 # 本学期生物信息学的学习计划
