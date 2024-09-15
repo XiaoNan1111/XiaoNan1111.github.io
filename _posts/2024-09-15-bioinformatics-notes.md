@@ -126,7 +126,7 @@ categories: jekyll update
 | 周次 | 内容 | 作业 |
 |---|---|---|
 | 第1周 | 课程介绍、入门任务（环境配置） | 入门指南 |
-| 第2-4周 | Linux、Bash 脚本、R 基础 | Linux 任务 |
+| 第2-4周 | Linux、Bash 脚本、R 基础、Python基础 | Linux 任务 |
 | 第5周 | NGS 基础，Reads Mapping | NGS 数据处理 |
 | 第6-9周 | RNA-seq 差异表达分析，GO/KEGG/GSEA | RNA-seq 作业 |
 | 第10-16周 | 机器学习与人工智能应用 | 机器学习任务 |
